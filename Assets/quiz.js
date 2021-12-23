@@ -35,6 +35,8 @@ function Question() {
     window.localStorage.setItem("Initials:", JSON.stringify(your_initials));
     window.localStorage.setItem("Score:", JSON.stringify(your_score));
 
+    alert("Your initials are " + your_initials + " and your score is " + your_score + " /2");
+
     }
 
     count = 0;
