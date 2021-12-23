@@ -1,0 +1,16 @@
+.start_button {
+    background-color: aqua;
+    font-size: 30px;
+}
+
+.test_status {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.question_space {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 15px;
+
+}
